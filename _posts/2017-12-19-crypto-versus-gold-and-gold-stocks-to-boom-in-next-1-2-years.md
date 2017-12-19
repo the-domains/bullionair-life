@@ -70,14 +70,14 @@ isBasedOnUrl: 'https://youtu.be/-hCPNbdsuvI'
 title: >-
   Crypto Versus Gold and Gold Stocks To Boom In Next 1-2 Years with Collin
   Kettell
-datePublished: '2017-12-19T15:13:21.815Z'
-dateModified: '2017-12-19T15:13:21.565Z'
+datePublished: '2017-12-19T15:14:45.816Z'
+dateModified: '2017-12-19T15:14:45.633Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2017-12-19-crypto-versus-gold-and-gold-stocks-to-boom-in-next-1-2-years.md
-datePublishedOriginal: '2017-12-19T15:13:21.815Z'
 starred: false
+datePublishedOriginal: '2017-12-19T15:13:21.815Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
